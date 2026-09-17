@@ -90,21 +90,21 @@ The website was developed using HTML and CSS and follows responsive design princ
 
 ---
 
-# Responsive Design
+## Responsive Design
 
 The website has been tested on:
 
 ### Desktop View
 
-![Desktop View](screenshots/desktop_view.png)
+![Desktop View](screenshots/desktop.png)
 
 ### Tablet View
 
-![Tablet View](screenshots/tablet_view.png)
+![Tablet View](screenshots/tablet.png)
 
 ### Mobile View
 
-![Mobile View](screenshots/mobile_view.png)
+![Mobile View](screenshots/mobile.png)
 
 Responsive features include:
 
